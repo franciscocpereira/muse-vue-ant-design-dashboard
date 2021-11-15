@@ -3,6 +3,7 @@
  -->
 
 <template>
+	
 	<div>
 
 		<!-- Default Layout -->
@@ -25,8 +26,8 @@
 
 		</a-layout>
 		<!-- / Default Layout -->
-
-	</div>
+			
+	</div> 
 </template>
 
 <script>
